@@ -1,0 +1,1244 @@
+body {
+  margin: 0px;
+  padding: 0px;
+  font-family: "Arial";
+  overflow-x: hidden;
+}
+
+img {
+  position: absolute;
+  display: block;
+  margin: 0px;
+  border: none;
+  padding: 0px;
+}
+
+div {
+  position: absolute;
+}
+
+#content-container {
+  display: block;
+  position: relative;
+  width: 1921px;
+  width: 1921px;
+  overflow: hidden;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#content-container > div {
+  position: relative;
+  top: inherit;
+}
+#page_ov1_ek1 {
+  top: 0px;
+  left: 0px;
+  width: 1921px;
+  height: 2443px;
+}
+
+#_bg__ov1_ek2 {
+  top: 0px;
+  left: 0px;
+  width: 1921px;
+  height: 2443px;
+  background: rgba(35, 34, 34, 1);
+}
+
+#part_1 {
+  top: 317px;
+  left: 182px;
+  width: 1502.83px;
+  height: 426px;
+}
+
+#papaj_2 {
+  top: 0px;
+  left: 0px;
+  width: 677.16px;
+  height: 426px;
+}
+
+#text {
+  top: 84px;
+  left: 546px;
+  width: 956.35px;
+  height: 164px;
+}
+#_1 {
+  top: 84px;
+  left: 131px;
+  width: 825.67px;
+  height: 80px;
+}
+
+#reason {
+  top: 0px;
+  left: 0px;
+  width: 853.17px;
+  height: 111.5px;
+  overflow: hidden;
+  font-family: PT Serif;
+  font-size: 45px;
+  font-weight: bold;
+  text-align: left;
+  line-height: 80px;
+  color: #ffffff;
+}
+
+#_1_ek1 {
+  top: 0px;
+  left: 0px;
+  width: 733px;
+  height: 80px;
+}
+
+#top {
+  top: 0px;
+  left: 0px;
+  width: 768px;
+  height: 122px;
+  overflow: hidden;
+  font-family: PT Serif;
+  font-size: 60px;
+  font-weight: bold;
+  text-align: left;
+  line-height: 80px;
+  color: #ffffff;
+}
+
+#part_2 {
+  top: 860px;
+  left: 184.38px;
+  width: 1539.66px;
+  height: 443px;
+}
+#text_ek1 {
+  top: 0px;
+  left: 0px;
+  width: 1539.66px;
+  height: 443px;
+}
+
+#dom_3 {
+  top: 0px;
+  left: 0px;
+  width: 674.79px;
+  height: 443px;
+}
+
+#_2 {
+  top: 182px;
+  left: 664px;
+  width: 875.56px;
+  height: 80px;
+}
+
+#reason_ek1 {
+  top: 0px;
+  left: 0px;
+  width: 901px;
+  height: 108px;
+  overflow: hidden;
+  font-family: PT Serif;
+  font-size: 40px;
+  font-weight: bold;
+  text-align: left;
+  line-height: 80px;
+  color: #ffffff;
+}
+
+#_2_ek1 {
+  top: 98px;
+  left: 533px;
+  width: 733px;
+  height: 80px;
+}
+
+#top_ek1 {
+  top: 0px;
+  left: 0px;
+  width: 768px;
+  height: 122px;
+  overflow: hidden;
+  font-family: PT Serif;
+  font-size: 60px;
+  font-weight: bold;
+  text-align: left;
+  line-height: 80px;
+  color: #ffffff;
+}
+
+#part_3 {
+  top: 1411px;
+  left: 182px;
+  width: 1558.67px;
+  height: 422px;
+}
+#text_ek2 {
+  top: 0px;
+  left: 0px;
+  width: 1558.67px;
+  height: 422px;
+}
+
+#sab2_2 {
+  top: 0px;
+  left: 0px;
+  width: 677.16px;
+  height: 422px;
+}
+
+#_3 {
+  top: 163px;
+  left: 664px;
+  width: 894.57px;
+  height: 80px;
+}
+
+#reason_ek2 {
+  top: 0px;
+  left: 0px;
+  width: 919px;
+  height: 107px;
+  overflow: hidden;
+  font-family: PT Serif;
+  font-size: 38px;
+  font-weight: bold;
+  text-align: left;
+  line-height: 80px;
+  color: #ffffff;
+}
+
+#_3_ek1 {
+  top: 79px;
+  left: 533px;
+  width: 733px;
+  height: 80px;
+}
+
+#top_ek2 {
+  top: 0px;
+  left: 0px;
+  width: 768px;
+  height: 122px;
+  overflow: hidden;
+  font-family: PT Serif;
+  font-size: 60px;
+  font-weight: bold;
+  text-align: left;
+  line-height: 80px;
+  color: #ffffff;
+}
+
+#part_4 {
+  top: 1961px;
+  left: 184.38px;
+  width: 1426.8px;
+  height: 409px;
+}
+#text_ek3 {
+  top: 0px;
+  left: 0px;
+  width: 1426.8px;
+  height: 409px;
+}
+
+#p4_3 {
+  top: 0px;
+  left: 0px;
+  width: 674.79px;
+  height: 409px;
+}
+
+#_4 {
+  top: 143px;
+  left: 651px;
+  width: 775.77px;
+  height: 80px;
+}
+
+#reason_ek3 {
+  top: 0px;
+  left: 0px;
+  width: 801px;
+  height: 108px;
+  overflow: hidden;
+  font-family: PT Serif;
+  font-size: 40px;
+  font-weight: bold;
+  text-align: left;
+  line-height: 80px;
+  color: #ffffff;
+}
+
+#_4_ek1 {
+  top: 59px;
+  left: 520px;
+  width: 778.15px;
+  height: 80px;
+}
+
+#top_ek3 {
+  top: 0px;
+  left: 0px;
+  width: 813.15px;
+  height: 122px;
+  overflow: hidden;
+  font-family: PT Serif;
+  font-size: 60px;
+  font-weight: bold;
+  text-align: left;
+  line-height: 80px;
+  color: #ffffff;
+}
+
+#my_fave_pizzas {
+  top: 109px;
+  left: 17px;
+  width: 1958px;
+  height: 141px;
+  overflow: hidden;
+  font-family: Poppins;
+  font-size: 64px;
+  text-align: center;
+  color: #ffffff;
+}
+
+#bg {
+  top: 140px;
+  left: 77px;
+  width: 35px;
+  height: 35px;
+  -ms-border-radius: 28.49px;
+  -o-border-radius: 28.49px;
+  -moz-border-radius: 28.49px;
+  -webkit-border-radius: 28.49px;
+  border-radius: 28.49px;
+  background: rgba(255, 202.94, 202.94, 1);
+}
+
+#icon_back {
+  top: 146px;
+  left: 82px;
+  width: 24px;
+  height: 24px;
+}
+#__round___navigation___chevron_left {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+}
+
+#path {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+}
+
+#____icon_color {
+  top: 6px;
+  left: 8px;
+  width: 6.59px;
+  height: 11.18px;
+}
+
+#bg_ek1 {
+  top: 2335px;
+  left: 1794px;
+  width: 35px;
+  height: 35px;
+  -ms-border-radius: 28.49px;
+  -o-border-radius: 28.49px;
+  -moz-border-radius: 28.49px;
+  -webkit-border-radius: 28.49px;
+  border-radius: 28.49px;
+
+  -ms-transform: rotate(90deg);
+  -o-transform: rotate(90deg);
+  -webkit-transform: rotate(90deg);
+  -moz-transform: rotate(90deg);
+  transform: rotate(90deg);
+  background: rgba(255, 202.94, 202.94, 1);
+}
+
+#icon_back_ek1 {
+  top: 2340px;
+  left: 1799px;
+  width: 24px;
+  height: 24px;
+}
+#__round___navigation___chevron_left_ek1 {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+}
+
+#path_ek1 {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+}
+
+#____icon_color_ek1 {
+  top: 7px;
+  left: 9px;
+  width: 6.59px;
+  height: 11.18px;
+}
+
+#page_ov2_ek1 {
+  top: 0px;
+  left: 0px;
+  width: 1921px;
+  height: 2358px;
+}
+
+#_bg__ov2_ek2 {
+  top: 0px;
+  left: 0px;
+  width: 1921px;
+  height: 2358px;
+  background: rgba(35, 34, 34, 1);
+}
+
+#group_1 {
+  top: 109px;
+  left: 0px;
+  width: 1921px;
+  height: 2168px;
+}
+
+#p1_2 {
+  top: 216px;
+  left: 282px;
+  width: 611.43px;
+  height: 426px;
+}
+
+#dom_2 {
+  top: 849px;
+  left: 1020px;
+  width: 638px;
+  height: 472px;
+}
+
+#sba_1 {
+  top: 760px;
+  left: 246px;
+  width: 648px;
+  height: 325px;
+}
+
+#p4_2 {
+  top: 352px;
+  left: 937px;
+  width: 803px;
+  height: 348px;
+}
+
+#papaj_1 {
+  top: 1235px;
+  left: 264px;
+  width: 611px;
+  height: 366px;
+}
+
+#p5_2 {
+  top: 1470px;
+  left: 996px;
+  width: 616px;
+  height: 454px;
+}
+
+#h1_2 {
+  top: 1751px;
+  left: 282px;
+  width: 646px;
+  height: 417px;
+}
+
+#pizza_pictures {
+  top: 0px;
+  left: -11px;
+  width: 1958px;
+  height: 141px;
+  overflow: hidden;
+  font-family: Poppins;
+  font-size: 64px;
+  text-align: center;
+  color: #ffffff;
+}
+
+#bg_ek2 {
+  top: 140px;
+  left: 77px;
+  width: 35px;
+  height: 35px;
+  -ms-border-radius: 28.49px;
+  -o-border-radius: 28.49px;
+  -moz-border-radius: 28.49px;
+  -webkit-border-radius: 28.49px;
+  border-radius: 28.49px;
+  background: rgba(255, 202.94, 202.94, 1);
+}
+
+#icon_back_ek2 {
+  top: 146px;
+  left: 82px;
+  width: 24px;
+  height: 24px;
+}
+#__round___navigation___chevron_left_ek2 {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+}
+
+#path_ek2 {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+}
+
+#____icon_color_ek2 {
+  top: 6px;
+  left: 8px;
+  width: 6.59px;
+  height: 11.18px;
+}
+
+#bg_ek3 {
+  top: 2242px;
+  left: 1828px;
+  width: 35px;
+  height: 35px;
+  -ms-border-radius: 28.49px;
+  -o-border-radius: 28.49px;
+  -moz-border-radius: 28.49px;
+  -webkit-border-radius: 28.49px;
+  border-radius: 28.49px;
+
+  -ms-transform: rotate(90deg);
+  -o-transform: rotate(90deg);
+  -webkit-transform: rotate(90deg);
+  -moz-transform: rotate(90deg);
+  transform: rotate(90deg);
+  background: rgba(255, 202.94, 202.94, 1);
+}
+
+#icon_back_ek3 {
+  top: 2247px;
+  left: 1833px;
+  width: 24px;
+  height: 24px;
+}
+#__round___navigation___chevron_left_ek3 {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+}
+
+#path_ek3 {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+}
+
+#____icon_color_ek3 {
+  top: 7px;
+  left: 9px;
+  width: 6.59px;
+  height: 11.18px;
+}
+
+#page_main_ek1 {
+  top: 0px;
+  left: 0px;
+  width: 1921px;
+  height: 4932px;
+}
+
+#_bg__main_ek2 {
+  top: 0px;
+  left: 0px;
+  width: 1921px;
+  height: 4932px;
+  background: rgba(35, 34, 34, 1);
+}
+
+#bg_ek4 {
+  top: 4819px;
+  left: 1815px;
+  width: 35px;
+  height: 35px;
+  -ms-border-radius: 28.49px;
+  -o-border-radius: 28.49px;
+  -moz-border-radius: 28.49px;
+  -webkit-border-radius: 28.49px;
+  border-radius: 28.49px;
+
+  -ms-transform: rotate(90deg);
+  -o-transform: rotate(90deg);
+  -webkit-transform: rotate(90deg);
+  -moz-transform: rotate(90deg);
+  transform: rotate(90deg);
+  background: rgba(255, 202.94, 202.94, 1);
+}
+
+#icon_back_ek4 {
+  top: 4824px;
+  left: 1820px;
+  width: 24px;
+  height: 24px;
+}
+#__round___navigation___chevron_left_ek4 {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+}
+
+#path_ek4 {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+}
+
+#____icon_color_ek4 {
+  top: 7px;
+  left: 9px;
+  width: 6.59px;
+  height: 11.18px;
+}
+
+#part3 {
+  top: 4222.01px;
+  left: 204.88px;
+  width: 1627.12px;
+  height: 529.99px;
+}
+
+#p5_1 {
+  top: 27px;
+  left: 802px;
+  width: 825.28px;
+  height: 456.59px;
+}
+
+#the_innovation_that_led_to_flatbread_pizza_was_the_use_of_tomato_as_a_topping__for_some_time_after_the_tomato_was_brought_to_europe_from_the_americas_in_the_16th_century__it_was_believed_by_many_europeans_to_be_poisonous__like_some_other_fruits_of_the_solanaceae__nightshade__family_are__however__by_the_late_18th_century__it_was_common_for_the_poor_of_the_area_around_naples_to_add_tomato_to_their_yeast_based_flatbread__and_so_the_pizza_began_ {
+  top: 0px;
+  left: 0px;
+  width: 890.93px;
+  height: 529.99px;
+}
+
+#the_innovation_that_led_to_flatbread_pizza_was_the_use_of_tomato_as_a_topping__for_some_time_after_the_tomato_was_brought_to_europe_from_the_americas_in_the_16th_century__it_was_believed_by_many_europeans_to_be_poisonous__like_some_other_fruits_of_the_solanaceae__nightshade__family_are__however__by_the_late_18th_century__it_was_common_for_the_poor_of_the_area_around_naples_to_add_tomato_to_their_yeast_based_flatbread__and_so_the_pizza_began__ek1 {
+  top: -13px;
+  left: 0px;
+  width: 909px;
+  height: 547.99px;
+  overflow: hidden;
+  font-family: PT Serif Caption;
+  font-size: 26px;
+  text-align: left;
+  line-height: 60px;
+  color: #ffffff;
+}
+
+#part_2_ek1 {
+  top: 3578.69px;
+  left: 90px;
+  width: 1742px;
+  height: 537.54px;
+}
+
+#_1_1 {
+  top: 0px;
+  left: 0px;
+  width: 1742px;
+  height: 537.54px;
+}
+
+#the_word_pizza_was_first_documented_in_a_d__997_in_gaeta_and_successively_in_different_parts_of_central_and_southern_italy__pizza_was_mainly_eaten_in_italy_and_by_emigrants_from_there__this_changed_after_world_war_ii_when_allied_troops_stationed_in_italy_came_to_enjoy_pizza_along_with_other_italian_foods_ {
+  top: 131px;
+  left: 274px;
+  width: 1213px;
+  height: 215px;
+  overflow: hidden;
+  font-family: PT Serif Caption;
+  font-size: 25px;
+  text-align: left;
+  line-height: 55px;
+  color: #000000;
+}
+
+#part_1_ek1 {
+  top: 2776px;
+  left: 13px;
+  width: 1919px;
+  height: 703.38px;
+}
+
+#history {
+  top: 0px;
+  left: -11px;
+  width: 1956px;
+  height: 237px;
+  overflow: hidden;
+  font-family: Poppins;
+  font-size: 64px;
+  text-align: center;
+  color: #ffffff;
+}
+
+#h1_1 {
+  top: 236px;
+  left: 276px;
+  width: 633.03px;
+  height: 467.38px;
+}
+
+#text_ek4 {
+  top: 335px;
+  left: 790px;
+  width: 976.5px;
+  height: 177.02px;
+}
+#where_did_it_come_from_ {
+  top: 91px;
+  left: 143px;
+  width: 833.49px;
+  height: 86.35px;
+}
+
+#where_did_it_come_from__ek1 {
+  top: 0px;
+  left: 0px;
+  width: 868.49px;
+  height: 128.35px;
+  overflow: hidden;
+  font-family: PT Serif;
+  font-size: 60px;
+  font-weight: bold;
+  text-align: left;
+  line-height: 80px;
+  color: #ffffff;
+}
+
+#the_origin_of_pizza {
+  top: 0px;
+  left: 0px;
+  width: 723.29px;
+  height: 86.35px;
+}
+
+#the_origin_of_pizza_ek1 {
+  top: 0px;
+  left: 0px;
+  width: 758.29px;
+  height: 128.35px;
+  overflow: hidden;
+  font-family: PT Serif;
+  font-size: 60px;
+  font-weight: bold;
+  text-align: left;
+  line-height: 80px;
+  color: #ffffff;
+}
+
+#menu {
+  top: 1086px;
+  left: 2px;
+  width: 1919px;
+  height: 1194px;
+}
+
+#menu_ek1 {
+  top: 0px;
+  left: -8px;
+  width: 1949px;
+  height: 122px;
+  overflow: hidden;
+  font-family: Poppins;
+  font-size: 50px;
+  text-align: center;
+  color: #ffffff;
+}
+
+#p1_1 {
+  top: 284px;
+  left: 251px;
+  width: 649.33px;
+  height: 401.1px;
+}
+
+#history_ek2 {
+  top: 442px;
+  left: 489px;
+  width: 252px;
+  height: 117.71px;
+  overflow: hidden;
+  font-family: Poppins;
+  font-size: 48px;
+  text-align: left;
+  color: #000000;
+}
+
+#dom_1 {
+  top: 287px;
+  left: 1019px;
+  width: 650.67px;
+  height: 397.61px;
+}
+
+#faves_ek1 {
+  top: 442px;
+  left: 1252px;
+  width: 217px;
+  height: 117.71px;
+  overflow: hidden;
+  font-family: Poppins;
+  font-size: 48px;
+  text-align: left;
+  color: #000000;
+}
+
+#sab2_1 {
+  top: 803px;
+  left: 611px;
+  width: 670.67px;
+  height: 390.64px;
+}
+
+#picture_dump {
+  top: 967px;
+  left: 827px;
+  width: 301px;
+  height: 116.38px;
+  overflow: hidden;
+  font-family: Poppins;
+  font-size: 50px;
+  text-align: left;
+  color: #000000;
+}
+
+#header {
+  top: 2645px;
+  left: 205px;
+  width: 1439px;
+  height: 32px;
+}
+#menu_ek2 {
+  top: 2px;
+  left: 326px;
+  width: 792px;
+  height: 30px;
+}
+
+#home_ek1 {
+  top: 0px;
+  left: 0px;
+  width: 75px;
+  height: 44px;
+  overflow: hidden;
+  font-family: Poppins;
+  font-size: 20px;
+  text-align: left;
+  color: #ffffff;
+}
+
+#frame {
+  top: 0px;
+  left: 60px;
+  width: 24px;
+  height: 24px;
+}
+
+#vector {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+}
+
+#vector_ek1 {
+  top: 8px;
+  left: 6.34px;
+  width: 5.66px;
+  height: 8.49px;
+}
+
+#history_ek3 {
+  top: 0px;
+  left: 211px;
+  width: 84px;
+  height: 44px;
+  overflow: hidden;
+  font-family: Poppins;
+  font-size: 20px;
+  text-align: left;
+  color: #ffffff;
+}
+
+#frame_ek1 {
+  top: 3px;
+  left: 306px;
+  width: 24px;
+  height: 24px;
+}
+
+#vector_ek2 {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+}
+
+#favorites {
+  top: 0px;
+  left: 444px;
+  width: 106px;
+  height: 44px;
+  overflow: hidden;
+  font-family: Poppins;
+  font-size: 20px;
+  text-align: left;
+  color: #ffffff;
+}
+
+#frame_ek2 {
+  top: 6px;
+  left: 534px;
+  width: 24px;
+  height: 24px;
+}
+
+#vector_ek3 {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+}
+
+#vector_ek4 {
+  top: 7.76px;
+  left: 9px;
+  width: 5.66px;
+  height: 8.49px;
+}
+
+#pizzaaaaa_ {
+  top: 0px;
+  left: 651px;
+  width: 127px;
+  height: 44px;
+  overflow: hidden;
+  font-family: Poppins;
+  font-size: 20px;
+  text-align: left;
+  color: #ffffff;
+}
+
+#frame_ek3 {
+  top: 6px;
+  left: 768px;
+  width: 24px;
+  height: 24px;
+}
+
+#vector_ek5 {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+}
+
+#vector_ek6 {
+  top: 7.76px;
+  left: 9px;
+  width: 5.66px;
+  height: 8.49px;
+}
+
+#vector_ek7 {
+  top: 15px;
+  left: 625px;
+  width: 5.66px;
+  height: 8.49px;
+}
+
+#home_ek2 {
+  top: 0px;
+  left: 2px;
+  width: 1918.67px;
+  height: 1019px;
+}
+
+#line_copy_6 {
+  top: 90px;
+  left: 375px;
+  width: 1170px;
+  height: 1px;
+}
+
+#mask {
+  top: 0px;
+  left: 0px;
+  width: 1918.67px;
+  height: 1027px;
+  background: rgba(0, 0, 0, 1);
+}
+
+#hero {
+  top: 0px;
+  left: 0px;
+  width: 1919px;
+  height: 1019px;
+}
+#your_image_here {
+  top: 0px;
+  left: 0px;
+  width: 1919px;
+  height: 1027px;
+}
+
+#p3_1 {
+  top: 0px;
+  left: 0px;
+  width: 1919px;
+  height: 1027px;
+}
+
+#rectangle {
+  top: 0px;
+  left: 0px;
+  width: 1919px;
+  height: 1027px;
+  background: rgba(255, 255, 255, 0);
+  background: -webkit-linear-gradient(
+    -90deg,
+    rgba(0, 0, 0, 0) 0%,
+    rgba(23.38, 16.36, 16.36, 1) 100%
+  );
+  background: -o-linear-gradient(
+    -90deg,
+    rgba(0, 0, 0, 0) 0%,
+    rgba(23.38, 16.36, 16.36, 1) 100%
+  );
+  background: -moz-linear-gradient(
+    -90deg,
+    rgba(0, 0, 0, 0) 0%,
+    rgba(23.38, 16.36, 16.36, 1) 100%
+  );
+  background: -ms-linear-gradient(
+    -90deg,
+    rgba(0, 0, 0, 0) 0%,
+    rgba(23.38, 16.36, 16.36, 1) 100%
+  );
+  background: linear-gradient(
+    -90deg,
+    rgba(0, 0, 0, 0) 0%,
+    rgba(23.38, 16.36, 16.36, 1) 100%
+  );
+}
+
+#by_maria_cassandra_vitug {
+  top: 509px;
+  left: 832.14px;
+  width: 229.37px;
+  height: 29px;
+  overflow: hidden;
+  font-family: PT Serif;
+  font-size: 14px;
+  text-align: left;
+  color: #b4b4b4;
+}
+
+#the_pizza_blog {
+  top: 433px;
+  left: 553.43px;
+  width: 830.47px;
+  height: 100px;
+  overflow: hidden;
+  font-family: PT Serif;
+  font-size: 72px;
+  font-weight: bold;
+  text-align: center;
+  line-height: 50px;
+  padding-top: 22px;
+  margin-top: -22px;
+  color: #ffffff;
+}
+
+#fashion {
+  top: -1763px;
+  left: 79.94px;
+  width: 592.1px;
+  height: 50.5px;
+  overflow: hidden;
+  font-family: PT Serif;
+  font-size: 25px;
+  font-weight: bold;
+  text-align: left;
+  letter-spacing: 2.5px;
+  color: #171717;
+}
+
+#header_ek1 {
+  top: 58px;
+  left: 221px;
+  width: 1439px;
+  height: 32px;
+}
+#menu_ek3 {
+  top: 2px;
+  left: 326px;
+  width: 792px;
+  height: 30px;
+}
+
+#home_ek4 {
+  top: 0px;
+  left: 0px;
+  width: 75px;
+  height: 44px;
+  overflow: hidden;
+  font-family: Poppins;
+  font-size: 20px;
+  text-align: left;
+  color: #ffffff;
+}
+
+#frame_ek4 {
+  top: 0px;
+  left: 60px;
+  width: 24px;
+  height: 24px;
+}
+
+#vector_ek8 {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+}
+
+#vector_ek9 {
+  top: 8px;
+  left: 6.34px;
+  width: 5.66px;
+  height: 8.49px;
+}
+
+#history_ek4 {
+  top: 0px;
+  left: 211px;
+  width: 84px;
+  height: 44px;
+  overflow: hidden;
+  font-family: Poppins;
+  font-size: 20px;
+  text-align: left;
+  color: #ffffff;
+}
+
+#frame_ek5 {
+  top: 3px;
+  left: 306px;
+  width: 24px;
+  height: 24px;
+}
+
+#vector_ek10 {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+}
+
+#favorites_ek1 {
+  top: 0px;
+  left: 444px;
+  width: 106px;
+  height: 44px;
+  overflow: hidden;
+  font-family: Poppins;
+  font-size: 20px;
+  text-align: left;
+  color: #ffffff;
+}
+
+#frame_ek6 {
+  top: 6px;
+  left: 534px;
+  width: 24px;
+  height: 24px;
+}
+
+#vector_ek11 {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+}
+
+#vector_ek12 {
+  top: 7.76px;
+  left: 9px;
+  width: 5.66px;
+  height: 8.49px;
+}
+
+#pizzaaaaa__ek1 {
+  top: 0px;
+  left: 651px;
+  width: 127px;
+  height: 44px;
+  overflow: hidden;
+  font-family: Poppins;
+  font-size: 20px;
+  text-align: left;
+  color: #ffffff;
+}
+
+#frame_ek7 {
+  top: 6px;
+  left: 768px;
+  width: 24px;
+  height: 24px;
+}
+
+#vector_ek13 {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+}
+
+#vector_ek14 {
+  top: 7.76px;
+  left: 9px;
+  width: 5.66px;
+  height: 8.49px;
+}
+
+#vector_ek15 {
+  top: 15px;
+  left: 625px;
+  width: 5.66px;
+  height: 8.49px;
+}
+
+/* Add your custom CSS here */
